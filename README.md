@@ -1,1 +1,2 @@
 # rs-test
+Hello RSSchool
